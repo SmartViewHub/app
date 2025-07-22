@@ -29,7 +29,7 @@ Browser Geolocation API for live location access.
 
 🔗 Deployment
 
-The project was deployed using the GitHub pages platform.
+The project was deployed using the GitHub pages platform. View the live site: https://smartviewhub.github.io/app/
 
 📂 Potential Use Cases
 
